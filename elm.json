@@ -1,0 +1,20 @@
+{
+    "type": "package",
+    "name": "uncover-co/elm-theme-studio",
+    "summary": "A companion application to help you define and test your elm-theme themes",
+    "license": "MPL-2.0",
+    "version": "1.0.0",
+    "exposed-modules": [
+        "Theme.Studio"
+    ],
+    "elm-version": "0.19.0 <= v < 0.20.0",
+    "dependencies": {
+        "avh4/elm-color": "1.0.0 <= v < 2.0.0",
+        "elm/core": "1.0.0 <= v < 2.0.0",
+        "elm/html": "1.0.0 <= v < 2.0.0",
+        "tesk9/palette": "3.0.1 <= v < 4.0.0",
+        "uncover-co/elm-theme": "2.0.0 <= v < 3.0.0",
+        "uncover-co/elm-widgets": "2.0.0 <= v < 3.0.0"
+    },
+    "test-dependencies": {}
+}
